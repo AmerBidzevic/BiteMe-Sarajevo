@@ -63,10 +63,3 @@ eas build -p android --profile preview
 
 4. Download the APK and install it on your phone.
 
-## Backend Note
-
-If you later choose to use your own backend, it must be hosted on a reachable URL for the phone. `localhost` only works during local development on your computer.
-
-## GitHub
-
-The repo is already set up to ignore local build files and environment files, so it is ready for a public GitHub repo.
