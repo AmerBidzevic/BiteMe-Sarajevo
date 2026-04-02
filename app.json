@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Sarajevo Eat Picker",
+    "slug": "sarajevo-eat-picker",
+    "scheme": "sarajevoeatpicker",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "plugins": ["expo-router"],
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0F172A"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#0F172A"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    }
+  }
+}
